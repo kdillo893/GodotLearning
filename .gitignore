@@ -13,3 +13,18 @@ export_presets.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+# the specific learning 2d zip resources...
+art/enemyFlyingAlt_1.png
+art/enemyFlyingAlt_2.png
+art/enemySwimming_1.png
+art/enemySwimming_2.png
+art/enemyWalking_1.png
+art/enemyWalking_2.png
+art/playerGrey_up1.png
+art/playerGrey_up2.png
+art/playerGrey_walk1.png
+art/playerGrey_walk2.png
+gameover.wav
+House\ In\ a\ Forest\ Loop.ogg
+fonts
